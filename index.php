@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Welcome to my page Beldia</p>
+    <p>Welcome to my page [Write your name here]</p>
 </body>
 </html>
